@@ -1,0 +1,7 @@
+Chính sách an toàn thông tin yêu cầu mọi nhân viên bảo vệ tài khoản, thiết bị và dữ liệu công ty. Mật khẩu phải có tối thiểu 12 ký tự, bao gồm chữ hoa, chữ thường, số và ký tự đặc biệt. Không được chia sẻ mật khẩu qua email, tin nhắn hoặc tài liệu dùng chung.
+
+Nhân viên bắt buộc bật xác thực đa yếu tố cho email công ty, hệ thống quản lý dự án, kho mã nguồn và các ứng dụng chứa dữ liệu khách hàng. Khi phát hiện đăng nhập bất thường hoặc nghi ngờ lộ thông tin, nhân viên cần báo ngay cho bộ phận IT.
+
+Thiết bị làm việc phải được khóa màn hình khi rời khỏi chỗ ngồi và phải cài đặt phần mềm chống mã độc do công ty cung cấp. Không được cài phần mềm không rõ nguồn gốc hoặc sao chép dữ liệu khách hàng sang USB cá nhân.
+
+Email nghi ngờ lừa đảo cần được chuyển tiếp đến security@anphat.example để kiểm tra. Nhân viên không được bấm vào liên kết lạ, tải tệp đính kèm không rõ nguồn gốc hoặc cung cấp mã OTP cho bất kỳ ai, kể cả người tự xưng là nhân viên hỗ trợ kỹ thuật.
